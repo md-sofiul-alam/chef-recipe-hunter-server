@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Tell us the difference between uncontrolled and controlled components",
+        "answer": "In the context of software development, uncontrolled components and controlled components refer to two different ways of managing the behavior and state of user interface (UI) elements. Uncontrolled Components: Uncontrolled components are UI elements whose state is managed entirely by the DOM (Document Object Model). This means that the values of input fields, checkboxes, radio buttons, etc. are not directly managed by the application's state, but instead are read from and written to the DOM. Uncontrolled components are useful in situations where you want to allow the user to interact with the UI element without needing to manage its state explicitly in the application's code. However, uncontrolled components can be harder to manage when you need to synchronize their state with the rest of the application. controlled Components: Controlled components, on the other hand, are UI elements whose state is managed explicitly by the application's state. This means that the values of input fields, checkboxes, radio buttons, etc. are stored in the application's state, and changes to the UI element are propagated back to the application's state. Controlled components allow for more fine-grained control over the UI and its state, and are often preferred in larger and more complex applications."
+    },
+    {
+        "id": 2,
+        "title": "How to validate React props using PrpTypes",
+        "answer": "React provides a library called PropTypes that allows you to validate the types of props passed to your React components. This can help you catch errors early in development, and make your code more reliable."
+    },
+    {
+        "id": 3,
+        "title": "Tell us the difference between nodejs and express js",
+        "answer": "Node.js and Express.js are two different technologies that are often used together in building web applications, but they serve different purposes. Node.js is a JavaScript runtime built on the V8 JavaScript engine, and it allows developers to run JavaScript code on the server-side. Node.js provides an event-driven, non-blocking I/O model that makes it well-suited for building scalable, real-time web applications. Node.js comes with a built-in package manager called npm that makes it easy to install and manage third-party packages and modules. Express.js, on the other hand, is a web application framework built on top of Node.js. It provides a set of features and tools for building web applications, such as routing, middleware, and templating. Express.js is designed to be lightweight and flexible, and it allows developers to build web applications quickly and easily. In summary, Node.js provides the runtime environment for running JavaScript on the server-side, while Express.js provides a framework for building web applications using Node.js. While you can build web applications with Node.js alone, using Express.js can simplify the process by providing useful abstractions and features out of the box."
+    },
+    {
+        "id": 4,
+        "title": "What is a custom hook, and why will you create a custom hook?",
+        "answer": "A custom hook is a function in React that allows you to reuse stateful logic across multiple components. It is a way to abstract away some common stateful logic into a reusable function that can be called from any component.  Custom hooks follow a specific naming convention - their names must start with the word 'use'. This convention tells React that the function is a custom hook and can be used with the 'use' keyword inside a functional component."
+    }
+]
