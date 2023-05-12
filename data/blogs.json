@@ -6,13 +6,13 @@
     },
     {
         "id": 2,
-        "title": "How to validate React props using PrpTypes",
-        "answer": "React provides a library called PropTypes that allows you to validate the types of props passed to your React components. This can help you catch errors early in development, and make your code more reliable."
+        "title": "Tell us the difference between nodejs and express js",
+        "answer": "Node.js and Express.js are two different technologies that are often used together in building web applications, but they serve different purposes. Node.js is a JavaScript runtime built on the V8 JavaScript engine, and it allows developers to run JavaScript code on the server-side. Node.js provides an event-driven, non-blocking I/O model that makes it well-suited for building scalable, real-time web applications. Node.js comes with a built-in package manager called npm that makes it easy to install and manage third-party packages and modules. Express.js, on the other hand, is a web application framework built on top of Node.js. It provides a set of features and tools for building web applications, such as routing, middleware, and templating. Express.js is designed to be lightweight and flexible, and it allows developers to build web applications quickly and easily. In summary, Node.js provides the runtime environment for running JavaScript on the server-side, while Express.js provides a framework for building web applications using Node.js. While you can build web applications with Node.js alone, using Express.js can simplify the process by providing useful abstractions and features out of the box."
     },
     {
         "id": 3,
-        "title": "Tell us the difference between nodejs and express js",
-        "answer": "Node.js and Express.js are two different technologies that are often used together in building web applications, but they serve different purposes. Node.js is a JavaScript runtime built on the V8 JavaScript engine, and it allows developers to run JavaScript code on the server-side. Node.js provides an event-driven, non-blocking I/O model that makes it well-suited for building scalable, real-time web applications. Node.js comes with a built-in package manager called npm that makes it easy to install and manage third-party packages and modules. Express.js, on the other hand, is a web application framework built on top of Node.js. It provides a set of features and tools for building web applications, such as routing, middleware, and templating. Express.js is designed to be lightweight and flexible, and it allows developers to build web applications quickly and easily. In summary, Node.js provides the runtime environment for running JavaScript on the server-side, while Express.js provides a framework for building web applications using Node.js. While you can build web applications with Node.js alone, using Express.js can simplify the process by providing useful abstractions and features out of the box."
+        "title": "How to validate React props using PrpTypes",
+        "answer": "React provides a library called PropTypes that allows you to validate the types of props passed to your React components. This can help you catch errors early in development, and make your code more reliable."
     },
     {
         "id": 4,
